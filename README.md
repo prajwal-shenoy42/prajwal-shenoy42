@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on a Python Project
 - 🥅 My Goals: Improve every single day
 
-### Connect with me:
+### My links:
 
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/prajwal-shenoy-76a8991a7/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="22px">](https://www.instagram.com/_prajwal.shenoy_/)
