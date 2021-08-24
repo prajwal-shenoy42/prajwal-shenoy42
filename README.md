@@ -3,7 +3,7 @@
 ## I am currently a 3rd Year Computer Science Undergrad!
 
 - 🔭 I’m interested in expanding my knowledge when it comes to domains that include, but are not limited to Cyber Security & Networking, Web Development and Cloud Computing
-- 🌱 I’m currently working on a Python Project
+- 🌱 I’m currently working on becoming an AWS Certified Cloud Practitioner
 - 🥅 My Goals: Improve every single day
 
 ### My links:
